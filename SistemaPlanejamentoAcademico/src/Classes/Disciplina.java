@@ -9,6 +9,7 @@ public class Disciplina {
 		this.sementre = sementre;
 		this.cargoHorario = cargoHorario;
 	}
+	
 	public String getNomedi() {
 		return nomedi;
 	}
