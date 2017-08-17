@@ -10,8 +10,7 @@ public class Area {
 	{
 	
 		setNome(nome);
-		
-		
+			
 		
 	}
 
