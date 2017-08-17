@@ -2,6 +2,7 @@ package Classes;
 
 public class Area {
 
+
 	public Area()
 	{
 		String nome;
@@ -11,4 +12,5 @@ public class Area {
 	}
 	
 	
+
 }
